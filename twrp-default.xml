@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="TeamWin"
-            fetch="https://github.com/TeamWin"
+            fetch="https://githubfast.com/TeamWin"
             review="https://gerrit.twrp.me"/>
 
     <remote name="LineageOS"
-            fetch="https://github.com/LineageOS"
+            fetch="https://githubfast.com/LineageOS"
             review="https://review.lineageos.org"/>
 
     <remote name="github"
-            fetch="https://github.com"/>
+            fetch="https://githubfast.com"/>
 
     <!-- We need the TeamWin forks of these repos -->
     <remove-project name="platform/bootable/recovery"/>
